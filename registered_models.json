@@ -1,12 +1,7 @@
 {
-    "4 heads":{
-        "constructor": "model.InductionTransformer",
-        "checkpoint": "/home/aric/Desktop/Projects/mvp_induction/mvp_induction/2xd6pzzd/checkpoints/epoch=34-step=629.ckpt",
-        "tokenizer": "model.InductionTokenizer"
-    },
     "1 head":{
         "constructor": "model.InductionTransformer",
-        "checkpoint": "/home/aric/Desktop/Projects/mvp_induction/mvp_induction/1htxnpz5/checkpoints/epoch=16-step=299.ckpt",
+        "checkpoint": "/home/aric/Desktop/Projects/mvp_induction/mvp_induction/1ge10gq8/checkpoints/epoch=16-step=299.ckpt",
         "tokenizer": "model.InductionTokenizer"
     }
 }
