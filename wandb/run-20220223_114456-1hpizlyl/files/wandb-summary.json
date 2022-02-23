@@ -1,1 +1,0 @@
-{"lr-AdamW": 0.0002999973254550917, "trainer/global_step": 29, "_runtime": 5, "_timestamp": 1645613102, "_step": 6, "Training/Accuracy": 1.0, "Training/Loss": 0.4415125548839569, "epoch": 1, "Validation/Accuracy": 0.9739999771118164, "Validation/Loss": 1.2503551244735718, "_wandb": {"runtime": 6}}
